@@ -46,3 +46,4 @@ Threshold tuning(range 0.4 to 0.6) and found 0.55 threshold yielding best result
 2. Neural Network : 0.7558714  
 3. Naive Bayes : 0.7527714
 Amongst the classifiers, GaussianNB, poly SVM and Shallow Neural Network classifiers, although comparable but SVM algorithm yields best results overall based on the accuracy metrics.
+Therefore, the project demonstrates that using these classification methods can be a useful tool to accurately classify traffic accidents according to their injury severity.
