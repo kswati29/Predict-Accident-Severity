@@ -1,5 +1,5 @@
 # Predict-Accident-Severity-
-Classification and comparison between GaussianNB, poly SVC and Neural Network algorithm using MCA dimension reduction
+Classification using Gaussian Naive Bayes, SVC and Neural Network algorithm approaches with MCA dimension reduction with performance comparison
 
 ## Introduction and Goal
 Based on 75,550 personal injury accidents on public roads in UK that are reported to the police, classifying the severity of an accident as severe and non-severe is imperative needing rigorous attempts for effective and workable prevention.
